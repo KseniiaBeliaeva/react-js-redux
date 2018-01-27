@@ -9,13 +9,13 @@
 // const adults = ages.filter((age) => age > 20); //returns true or false;
 // console.log(adults);
 
-//const name = 'Bill';
-//const age = 35;
+// const name = 'Bill';
+// const age = 35;
 
 // const sentence = 'My name is " + name + ", and I am " + age + " years old";
 // console.log(sentence);
 // FOR TEMPLATE strings we need to use `back-tick` --> ``
-
-//const sentence = `My name is ${name} and I am ${age * 2} years old`;
-//console.log(sentence);
+    // const sentence = `My name is ${name} and I am ${age * 2} years old`;
+    // console.log(sentence);
 //age *2 - (age times two)
+// 
